@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>This my second bolg</title>
+      <link>/post/2019/11/08/this-my-second-bolg/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/11/08/this-my-second-bolg/</guid>
+      <description>How can i push the blog to netlify?</description>
+    </item>
+    
+    <item>
       <title>Welcome to my first blog</title>
       <link>/post/2019/11/08/welcome-to-my-first-blog/</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
